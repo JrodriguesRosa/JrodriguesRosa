@@ -19,5 +19,5 @@ um futuro dev 🚀
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![my stats](https://github-readme-stats.vercel.app/api?username=JrodriguesRosa&show_icons=true&theme=transparent)
 
