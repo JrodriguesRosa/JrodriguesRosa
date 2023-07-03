@@ -19,9 +19,5 @@ um futuro dev 🚀
 
 ---
 
-
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=JrodriguesRosa&show_icons=true&layout=compact&theme=dark" />
-
-
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrodriguesRosa&show_icons=true&layout=compact&theme=dark" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
