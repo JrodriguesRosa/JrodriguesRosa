@@ -1,23 +1,28 @@
-## 😄 sobre mim
+# hello 👋
 
-um futuro dev 🚀
+my name is joão, i'm exploring the programming world and the idea of become a developer
 
 ---
 
-### 🤓☝tech stack:
+## 🤓☝ i know
 
 - HTML
 - CSS
+- a bit of javaScript
 
 ---
 
-### 🧐 estou estudando:
+## 🧐 I'm learning
 
-- JAVASCRIPT
-- REACT
-- SASS
+- javaScript & typeScript
+- scss
+- node.js
+- react.js
 
 ---
 
-![my stats](https://github-readme-stats.vercel.app/api?username=JrodriguesRosa&show_icons=true&theme=transparent)
-
+<h2 align="center"> my stats 🚀</h2>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAzS&theme=dracula&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasAzS&show_icons=true&theme=dracula" />
+</div>
